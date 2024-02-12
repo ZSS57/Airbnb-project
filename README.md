@@ -11,3 +11,4 @@ These visualizations together provide a comprehensive overview of Airbnb listing
 4, Price per Zipcode (Map): This map is color-coded by average listing price in different zip codes. Darker colors likely indicate higher prices. The specific average prices are also labeled in the map, allowing for a quick comparison of pricing between areas.
 
 5, Price by Zipcode (Bar Chart): This is a horizontal bar chart that presents the average price for listings in each zip code, sorted in descending order. Each zip code is represented by a different color, matching the map above for easy cross-reference.
+<img width="1174" alt="image" src="https://github.com/ZSS57/Airbnb-project/assets/101138757/82253566-8583-4b0b-b4e0-c26a1e705661">
