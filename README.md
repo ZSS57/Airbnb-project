@@ -1,6 +1,6 @@
 # Airbnb-project
 
-These visualizations together provide a comprehensive overview of Airbnb listing prices, distribution, and revenue performance over time, segmented by the number of bedrooms and geographical location (zip code). The dashboard allows for both at-a-glance insights and deeper analysis into market trends, which would be valuable for hosts, guests, and market analysts.
+I created these visualizations by Tableau. It provides a comprehensive overview of Airbnb listing prices, distribution, and revenue performance over time, segmented by the number of bedrooms and geographical location (zip code). The dashboard allows for both at-a-glance insights and deeper analysis into market trends, which would be valuable for hosts, guests, and market analysts.
 
 1, Distinct Counts of Bedrooms Listings: 
 This appears to be a simple table that shows the frequency of listings by the number of bedrooms. It helps to quickly see how many listings are available for each bedroom count, with 1-bedroom listings being the most common.
